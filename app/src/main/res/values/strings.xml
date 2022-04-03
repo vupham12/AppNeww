@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppNeww</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="suckhoe_fragment">suckhoe fragment</string>
+    <string name="thegioi_fragment">thoigioi fragment</string>
+    <string name="thoisu_fragment">thoisu fragment</string>
+    <string name="trangchu_fragment">trangchu fragment</string>
+</resources>
